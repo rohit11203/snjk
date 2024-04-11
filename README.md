@@ -1,0 +1,2 @@
+# snjk
+ndms cmq,sc
